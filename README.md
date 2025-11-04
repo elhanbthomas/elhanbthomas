@@ -1,5 +1,8 @@
-# Hi there 👋, I'm Elhan B Thomas
-🎓 Computer Science student | 💻 Full Stack Developer | Quantum Computing Enthusiasist
+# Hi there 👋, I'm Elhan B Thomas  
+🎓 Computer Science student | 💻 Full Stack Developer | ⚛️ Quantum Computing Enthusiast  
+
+> Still trying to figure out whether my bugs exist in *superposition* until I observe them 😅
+
 
 
 ## 👋 About Me  
